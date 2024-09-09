@@ -1,0 +1,18 @@
+net, the number of parameters: 847504
+
+========================================
+Epoch 1, time 12014.30 s
+wloss-content	1.693353
+wloss-mask	2.563295
+wloss-style	0.630873
+wloss-lapla	0.569418
+wloss-smooth	0.050653
+wloss-warp	1.413854
+gloss-vgg-bg	0.000000
+gloss-con-bg	0.000000
+gloss-vgg	0.000000
+gloss-con	0.000000
+gloss-mask	0.000000
+gloss-gen	0.000000
+loss-total	6.921446
+========================================
